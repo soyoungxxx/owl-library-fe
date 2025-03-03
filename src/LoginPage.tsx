@@ -1,7 +1,7 @@
 import React from "react";
 import "./LoginPage.css";
 
-// import kakaoLoginImg from "../public/btn_login_kakao.png";
+import kakaoLoginImg from "./assets/btn_login_kakao.png";
 
 const LoginPage = (): React.ReactElement => {
   return (
